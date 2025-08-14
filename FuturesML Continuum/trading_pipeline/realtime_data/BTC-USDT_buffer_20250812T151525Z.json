@@ -1,0 +1,135 @@
+[
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 36,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 34,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 16,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011702703
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 10,
+    "direction": "buy",
+    "timestamp": 1755011702714
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 16,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 150,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 88,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 82,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 18,
+    "direction": "buy",
+    "timestamp": 1755011718115
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 18,
+    "direction": "sell",
+    "timestamp": 1755011719384
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 4,
+    "direction": "sell",
+    "timestamp": 1755011719384
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 34,
+    "direction": "buy",
+    "timestamp": 1755011720770
+  },
+  {
+    "trade_id": null,
+    "price": 119421.3,
+    "amount": 6,
+    "direction": "buy",
+    "timestamp": 1755011721931
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 336,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 140,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 332,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 332,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 796,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  }
+]

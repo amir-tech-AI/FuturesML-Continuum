@@ -1,0 +1,37 @@
+[
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 36,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 34,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 16,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011702703
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 10,
+    "direction": "buy",
+    "timestamp": 1755011702714
+  }
+]

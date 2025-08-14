@@ -1,0 +1,1101 @@
+[
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 36,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 34,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119421.2,
+    "amount": 16,
+    "direction": "sell",
+    "timestamp": 1755011697182
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011702703
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 10,
+    "direction": "buy",
+    "timestamp": 1755011702714
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 16,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 150,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 88,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 82,
+    "direction": "sell",
+    "timestamp": 1755011711393
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 18,
+    "direction": "buy",
+    "timestamp": 1755011718115
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 18,
+    "direction": "sell",
+    "timestamp": 1755011719384
+  },
+  {
+    "trade_id": null,
+    "price": 119414.3,
+    "amount": 4,
+    "direction": "sell",
+    "timestamp": 1755011719384
+  },
+  {
+    "trade_id": null,
+    "price": 119414.4,
+    "amount": 34,
+    "direction": "buy",
+    "timestamp": 1755011720770
+  },
+  {
+    "trade_id": null,
+    "price": 119421.3,
+    "amount": 6,
+    "direction": "buy",
+    "timestamp": 1755011721931
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 336,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 140,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 332,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 332,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.4,
+    "amount": 796,
+    "direction": "buy",
+    "timestamp": 1755011722524
+  },
+  {
+    "trade_id": null,
+    "price": 119428.6,
+    "amount": 6,
+    "direction": "buy",
+    "timestamp": 1755011727930
+  },
+  {
+    "trade_id": null,
+    "price": 119430.0,
+    "amount": 38,
+    "direction": "buy",
+    "timestamp": 1755011727959
+  },
+  {
+    "trade_id": null,
+    "price": 119438.0,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730104
+  },
+  {
+    "trade_id": null,
+    "price": 119438.0,
+    "amount": 50,
+    "direction": "buy",
+    "timestamp": 1755011730104
+  },
+  {
+    "trade_id": null,
+    "price": 119438.0,
+    "amount": 8,
+    "direction": "buy",
+    "timestamp": 1755011730165
+  },
+  {
+    "trade_id": null,
+    "price": 119438.0,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730291
+  },
+  {
+    "trade_id": null,
+    "price": 119438.2,
+    "amount": 4,
+    "direction": "buy",
+    "timestamp": 1755011730291
+  },
+  {
+    "trade_id": null,
+    "price": 119448.5,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730809
+  },
+  {
+    "trade_id": null,
+    "price": 119448.5,
+    "amount": 56,
+    "direction": "buy",
+    "timestamp": 1755011730809
+  },
+  {
+    "trade_id": null,
+    "price": 119448.5,
+    "amount": 202,
+    "direction": "buy",
+    "timestamp": 1755011730809
+  },
+  {
+    "trade_id": null,
+    "price": 119448.7,
+    "amount": 4,
+    "direction": "buy",
+    "timestamp": 1755011730811
+  },
+  {
+    "trade_id": null,
+    "price": 119450.0,
+    "amount": 6,
+    "direction": "buy",
+    "timestamp": 1755011730811
+  },
+  {
+    "trade_id": null,
+    "price": 119450.0,
+    "amount": 16,
+    "direction": "buy",
+    "timestamp": 1755011730811
+  },
+  {
+    "trade_id": null,
+    "price": 119450.0,
+    "amount": 6,
+    "direction": "buy",
+    "timestamp": 1755011730811
+  },
+  {
+    "trade_id": null,
+    "price": 119451.2,
+    "amount": 60,
+    "direction": "buy",
+    "timestamp": 1755011730811
+  },
+  {
+    "trade_id": null,
+    "price": 119453.8,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730811
+  },
+  {
+    "trade_id": null,
+    "price": 119455.8,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730811
+  },
+  {
+    "trade_id": null,
+    "price": 119457.0,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730817
+  },
+  {
+    "trade_id": null,
+    "price": 119458.1,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730817
+  },
+  {
+    "trade_id": null,
+    "price": 119460.0,
+    "amount": 22,
+    "direction": "buy",
+    "timestamp": 1755011730817
+  },
+  {
+    "trade_id": null,
+    "price": 119461.6,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730817
+  },
+  {
+    "trade_id": null,
+    "price": 119461.8,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011730817
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 46,
+    "direction": "buy",
+    "timestamp": 1755011730817
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 12,
+    "direction": "buy",
+    "timestamp": 1755011731687
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 112,
+    "direction": "buy",
+    "timestamp": 1755011731687
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 204,
+    "direction": "buy",
+    "timestamp": 1755011731687
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 70,
+    "direction": "buy",
+    "timestamp": 1755011731687
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 278,
+    "direction": "buy",
+    "timestamp": 1755011731687
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 110,
+    "direction": "buy",
+    "timestamp": 1755011731687
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 174,
+    "direction": "buy",
+    "timestamp": 1755011731687
+  },
+  {
+    "trade_id": null,
+    "price": 119463.0,
+    "amount": 4,
+    "direction": "sell",
+    "timestamp": 1755011732264
+  },
+  {
+    "trade_id": null,
+    "price": 119463.0,
+    "amount": 136,
+    "direction": "sell",
+    "timestamp": 1755011736207
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 28,
+    "direction": "buy",
+    "timestamp": 1755011736885
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 418,
+    "direction": "buy",
+    "timestamp": 1755011736885
+  },
+  {
+    "trade_id": null,
+    "price": 119463.1,
+    "amount": 36,
+    "direction": "buy",
+    "timestamp": 1755011736885
+  },
+  {
+    "trade_id": null,
+    "price": 119464.4,
+    "amount": 4,
+    "direction": "sell",
+    "timestamp": 1755011738303
+  },
+  {
+    "trade_id": null,
+    "price": 119464.5,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011747594
+  },
+  {
+    "trade_id": null,
+    "price": 119464.7,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011747601
+  },
+  {
+    "trade_id": null,
+    "price": 119466.7,
+    "amount": 8,
+    "direction": "buy",
+    "timestamp": 1755011747601
+  },
+  {
+    "trade_id": null,
+    "price": 119468.0,
+    "amount": 278,
+    "direction": "buy",
+    "timestamp": 1755011747602
+  },
+  {
+    "trade_id": null,
+    "price": 119469.2,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011747602
+  },
+  {
+    "trade_id": null,
+    "price": 119470.0,
+    "amount": 28,
+    "direction": "buy",
+    "timestamp": 1755011747602
+  },
+  {
+    "trade_id": null,
+    "price": 119472.8,
+    "amount": 18,
+    "direction": "buy",
+    "timestamp": 1755011748658
+  },
+  {
+    "trade_id": null,
+    "price": 119472.8,
+    "amount": 36,
+    "direction": "buy",
+    "timestamp": 1755011748658
+  },
+  {
+    "trade_id": null,
+    "price": 119472.8,
+    "amount": 16,
+    "direction": "buy",
+    "timestamp": 1755011748658
+  },
+  {
+    "trade_id": null,
+    "price": 119473.6,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011748658
+  },
+  {
+    "trade_id": null,
+    "price": 119487.8,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011748815
+  },
+  {
+    "trade_id": null,
+    "price": 119487.8,
+    "amount": 16,
+    "direction": "buy",
+    "timestamp": 1755011748815
+  },
+  {
+    "trade_id": null,
+    "price": 119487.8,
+    "amount": 186,
+    "direction": "buy",
+    "timestamp": 1755011749377
+  },
+  {
+    "trade_id": null,
+    "price": 119488.0,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011749377
+  },
+  {
+    "trade_id": null,
+    "price": 119490.5,
+    "amount": 16,
+    "direction": "buy",
+    "timestamp": 1755011749378
+  },
+  {
+    "trade_id": null,
+    "price": 119490.5,
+    "amount": 16,
+    "direction": "buy",
+    "timestamp": 1755011749380
+  },
+  {
+    "trade_id": null,
+    "price": 119490.5,
+    "amount": 16,
+    "direction": "buy",
+    "timestamp": 1755011749381
+  },
+  {
+    "trade_id": null,
+    "price": 119490.5,
+    "amount": 12,
+    "direction": "buy",
+    "timestamp": 1755011749557
+  },
+  {
+    "trade_id": null,
+    "price": 119490.7,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011749557
+  },
+  {
+    "trade_id": null,
+    "price": 119491.4,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011749557
+  },
+  {
+    "trade_id": null,
+    "price": 119493.4,
+    "amount": 58,
+    "direction": "buy",
+    "timestamp": 1755011749557
+  },
+  {
+    "trade_id": null,
+    "price": 119495.1,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011749557
+  },
+  {
+    "trade_id": null,
+    "price": 119498.8,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011749557
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011749557
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011750396
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011750410
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011750416
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011750428
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 98,
+    "direction": "buy",
+    "timestamp": 1755011756424
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 230,
+    "direction": "buy",
+    "timestamp": 1755011756424
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 44,
+    "direction": "buy",
+    "timestamp": 1755011756424
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 112,
+    "direction": "buy",
+    "timestamp": 1755011756424
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 66,
+    "direction": "buy",
+    "timestamp": 1755011756424
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 110,
+    "direction": "buy",
+    "timestamp": 1755011756424
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 138,
+    "direction": "buy",
+    "timestamp": 1755011756424
+  },
+  {
+    "trade_id": null,
+    "price": 119500.0,
+    "amount": 40,
+    "direction": "buy",
+    "timestamp": 1755011757498
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 326,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 278,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 278,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 332,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 332,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 332,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 22,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119499.9,
+    "amount": 336,
+    "direction": "sell",
+    "timestamp": 1755011760736
+  },
+  {
+    "trade_id": null,
+    "price": 119489.6,
+    "amount": 58,
+    "direction": "sell",
+    "timestamp": 1755011761234
+  },
+  {
+    "trade_id": null,
+    "price": 119489.6,
+    "amount": 112,
+    "direction": "sell",
+    "timestamp": 1755011761234
+  },
+  {
+    "trade_id": null,
+    "price": 119488.1,
+    "amount": 36,
+    "direction": "sell",
+    "timestamp": 1755011763668
+  },
+  {
+    "trade_id": null,
+    "price": 119488.1,
+    "amount": 36,
+    "direction": "sell",
+    "timestamp": 1755011763668
+  },
+  {
+    "trade_id": null,
+    "price": 119488.1,
+    "amount": 38,
+    "direction": "sell",
+    "timestamp": 1755011763668
+  },
+  {
+    "trade_id": null,
+    "price": 119488.1,
+    "amount": 34,
+    "direction": "sell",
+    "timestamp": 1755011763668
+  },
+  {
+    "trade_id": null,
+    "price": 119488.1,
+    "amount": 20,
+    "direction": "sell",
+    "timestamp": 1755011763668
+  },
+  {
+    "trade_id": null,
+    "price": 119488.1,
+    "amount": 34,
+    "direction": "sell",
+    "timestamp": 1755011763668
+  },
+  {
+    "trade_id": null,
+    "price": 119488.1,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011763668
+  },
+  {
+    "trade_id": null,
+    "price": 119477.1,
+    "amount": 110,
+    "direction": "sell",
+    "timestamp": 1755011769125
+  },
+  {
+    "trade_id": null,
+    "price": 119477.1,
+    "amount": 200,
+    "direction": "sell",
+    "timestamp": 1755011769125
+  },
+  {
+    "trade_id": null,
+    "price": 119477.1,
+    "amount": 200,
+    "direction": "sell",
+    "timestamp": 1755011769125
+  },
+  {
+    "trade_id": null,
+    "price": 119477.1,
+    "amount": 200,
+    "direction": "sell",
+    "timestamp": 1755011769125
+  },
+  {
+    "trade_id": null,
+    "price": 119476.9,
+    "amount": 60,
+    "direction": "sell",
+    "timestamp": 1755011769234
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 58,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 26,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 140,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 110,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 10,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 10,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 200,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 200,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 200,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119466.2,
+    "amount": 202,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119463.3,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119459.8,
+    "amount": 60,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119459.4,
+    "amount": 1136,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119458.2,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 236,
+    "direction": "sell",
+    "timestamp": 1755011770177
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 100,
+    "direction": "sell",
+    "timestamp": 1755011773124
+  },
+  {
+    "trade_id": null,
+    "price": 119458.0,
+    "amount": 8,
+    "direction": "buy",
+    "timestamp": 1755011774581
+  },
+  {
+    "trade_id": null,
+    "price": 119458.0,
+    "amount": 12,
+    "direction": "buy",
+    "timestamp": 1755011778934
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 10,
+    "direction": "sell",
+    "timestamp": 1755011783698
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 10,
+    "direction": "sell",
+    "timestamp": 1755011783698
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 36,
+    "direction": "sell",
+    "timestamp": 1755011783698
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 34,
+    "direction": "sell",
+    "timestamp": 1755011783698
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 32,
+    "direction": "sell",
+    "timestamp": 1755011783698
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 72,
+    "direction": "sell",
+    "timestamp": 1755011783698
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 10,
+    "direction": "sell",
+    "timestamp": 1755011787437
+  },
+  {
+    "trade_id": null,
+    "price": 119457.9,
+    "amount": 10,
+    "direction": "sell",
+    "timestamp": 1755011787437
+  },
+  {
+    "trade_id": null,
+    "price": 119457.7,
+    "amount": 22,
+    "direction": "sell",
+    "timestamp": 1755011787437
+  },
+  {
+    "trade_id": null,
+    "price": 119455.8,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011787450
+  },
+  {
+    "trade_id": null,
+    "price": 119454.5,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011787450
+  },
+  {
+    "trade_id": null,
+    "price": 119450.8,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011787450
+  },
+  {
+    "trade_id": null,
+    "price": 119447.7,
+    "amount": 38,
+    "direction": "sell",
+    "timestamp": 1755011787450
+  },
+  {
+    "trade_id": null,
+    "price": 119447.7,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011787574
+  },
+  {
+    "trade_id": null,
+    "price": 119447.7,
+    "amount": 20,
+    "direction": "sell",
+    "timestamp": 1755011787595
+  },
+  {
+    "trade_id": null,
+    "price": 119447.7,
+    "amount": 26,
+    "direction": "sell",
+    "timestamp": 1755011787595
+  },
+  {
+    "trade_id": null,
+    "price": 119447.5,
+    "amount": 18,
+    "direction": "sell",
+    "timestamp": 1755011787595
+  },
+  {
+    "trade_id": null,
+    "price": 119447.1,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011787595
+  },
+  {
+    "trade_id": null,
+    "price": 119446.5,
+    "amount": 38,
+    "direction": "sell",
+    "timestamp": 1755011787595
+  },
+  {
+    "trade_id": null,
+    "price": 119446.5,
+    "amount": 8,
+    "direction": "sell",
+    "timestamp": 1755011787737
+  },
+  {
+    "trade_id": null,
+    "price": 119446.5,
+    "amount": 202,
+    "direction": "sell",
+    "timestamp": 1755011787847
+  },
+  {
+    "trade_id": null,
+    "price": 119446.5,
+    "amount": 68,
+    "direction": "sell",
+    "timestamp": 1755011787847
+  },
+  {
+    "trade_id": null,
+    "price": 119446.5,
+    "amount": 70,
+    "direction": "sell",
+    "timestamp": 1755011787847
+  },
+  {
+    "trade_id": null,
+    "price": 119444.7,
+    "amount": 2,
+    "direction": "buy",
+    "timestamp": 1755011788743
+  },
+  {
+    "trade_id": null,
+    "price": 119438.0,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011793987
+  },
+  {
+    "trade_id": null,
+    "price": 119437.8,
+    "amount": 2,
+    "direction": "sell",
+    "timestamp": 1755011795068
+  }
+]

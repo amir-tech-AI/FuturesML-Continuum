@@ -1,0 +1,23 @@
+[
+  {
+    "trade_id": null,
+    "price": 119291.5,
+    "amount": 6,
+    "direction": "sell",
+    "timestamp": 1755010582361
+  },
+  {
+    "trade_id": null,
+    "price": 119291.5,
+    "amount": 36,
+    "direction": "sell",
+    "timestamp": 1755010587879
+  },
+  {
+    "trade_id": null,
+    "price": 119291.5,
+    "amount": 30,
+    "direction": "sell",
+    "timestamp": 1755010590473
+  }
+]
